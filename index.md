@@ -1,6 +1,8 @@
 ## Personal Website
 Email: huacamhao (at) gmail (dot) com
+
 [LinkeIn](https://www.linkedin.com/in/cam-hao-hua-a3246ab2/)
+
 [Google Scholar](https://scholar.google.com/citations?user=87YF-hQAAAAJ&hl=en)
 
 ### Patent Registration
