@@ -110,14 +110,14 @@ author:
   location         : "Republic of Korea"
   email            : "huacamhao (at) gmail (dot) com"
   links:
-    - label: "Email"
+    - label: "huacamhao (at) gmail (dot) com"
       icon: "fas fa-fw fa-envelope-square"
       # url: "mailto:your.name@email.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://camhao168.github.io"
     - label: "LinkedIn"
-      icon: "fas fa-fw fa-linkedin-square"
+      icon: "fas fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/cam-hao-hua-a3246ab2/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
@@ -153,8 +153,6 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url:
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
 
 
 # Reading Files
