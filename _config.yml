@@ -295,7 +295,7 @@ defaults:
       related: true
 
 defaults:
-  # _pages
+  # _pages/publications.md
   - scope:
       path: ""
       type: pages
