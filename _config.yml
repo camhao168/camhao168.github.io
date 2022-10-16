@@ -113,7 +113,7 @@ author:
       icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/cam-hao-hua-a3246ab2/"
     - label: "Google Scholar"
-      icon: "fa-sharp fa-solid fa-graduation-cap"
+      icon: "fas fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=87YF-hQAAAAJ&hl=en"
 
 # Site Footer
