@@ -20,7 +20,7 @@ title                    : "Personal Website"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Cam-Hao Hua"
-description              : "Personal Website"
+description              : # "Personal Website"
 url                      : "https://camhao168.github.io" # the base hostname & protocol for your site e.g. "https://camhao168.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -106,17 +106,17 @@ analytics:
 author:
   name             : "Cam-Hao Hua"
   avatar           : "/assets/images/h2c_logo.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Ph.D."
-  location         : "Somewhere"
+  bio              : "Ph.D. in Computer Engineering"
+  location         : "Republic of Korea"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       # url: "mailto:your.name@email.com"
-      url: "huacamhao (at) gmail (dot) com
+      url: "huacamhao (at) gmail (dot) com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: "https://camhao168.github.io"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
