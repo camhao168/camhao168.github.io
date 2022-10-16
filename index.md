@@ -49,4 +49,4 @@ Email: huacamhao (at) gmail (dot) com
 18. Thien Huynh-The, Sungyoung Lee, and **Cam-Hao Hua**, “Adm-hipar: An efficient background subtraction approach,” in 2017 14th IEEE International Conference on Advanced Video and Signal Based Surveillance (AVSS), IEEE, 2017, pp. 1–6.
 
 #### Chapter in Book
-1. Mugahed A. Al-Antari, **Cam-Hao Hua**, and Sungyoung Lee, “Rapid and accurate AI-based diagnosis to distinguish COVID-19 from eight other lung respiratory diseases,” in Artificial Intelligence Strategies for Analyzing COVID-19 Pneumonia Lung Imaging, vol. 1, 2022, 7, p. 7. î DOI: 10.1088/978-0-7503-3795-3ch7.
+1. Mugahed A. Al-Antari, **Cam-Hao Hua**, and Sungyoung Lee, “Rapid and accurate AI-based diagnosis to distinguish COVID-19 from eight other lung respiratory diseases,” in Artificial Intelligence Strategies for Analyzing COVID-19 Pneumonia Lung Imaging, vol. 1, 2022, 7, p. 7. DOI: 10.1088/978-0-7503-3795-3ch7.
