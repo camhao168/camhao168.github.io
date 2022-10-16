@@ -3,6 +3,10 @@ Email: huacamhao (at) gmail (dot) com
 [LinkeIn](https://www.linkedin.com/in/cam-hao-hua-a3246ab2/)
 [Google Scholar](https://scholar.google.com/citations?user=87YF-hQAAAAJ&hl=en)
 
+### Patent Registration
+1. Sung Young Lee and Cam Hao Hua, Image segmentation method, apparatus, and computer program to identify objects in images, US Patent 11,145,061, Oct. 2021.
+2. Sung Young Lee and Cam Hao Hua, Bracket-style convolutional neural networks for semantic image segmentation, Japan Patent 6890345, Jun. 2021.
+3. Sung Young Lee and Cam Hao Hua, Method, apparatus and computer program for image segmentation, Korea Patent 10-2215757, Feb. 2021
 
 ### Research Publications
 
@@ -44,8 +48,3 @@ Email: huacamhao (at) gmail (dot) com
 
 #### Chapter in Book
 1. Mugahed A. Al-Antari, Cam-Hao Hua, and Sungyoung Lee, “Rapid and accurate AI-based diagnosis to distinguish COVID-19 from eight other lung respiratory diseases,” in Artificial Intelligence Strategies for Analyzing COVID-19 Pneumonia Lung Imaging, vol. 1, 2022, 7, p. 7. î DOI: 10.1088/978-0-7503-3795-3ch7.
-
-#### Patent Registration
-1. Sung Young Lee and Cam Hao Hua, Image segmentation method, apparatus, and computer program to identify objects in images, US Patent 11,145,061, Oct. 2021.
-2. Sung Young Lee and Cam Hao Hua, Bracket-style convolutional neural networks for semantic image segmentation, Japan Patent 6890345, Jun. 2021.
-3. Sung Young Lee and Cam Hao Hua, Method, apparatus and computer program for image segmentation, Korea Patent 10-2215757, Feb. 2021
