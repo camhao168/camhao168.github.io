@@ -114,7 +114,7 @@ author:
       icon: "fas fa-fw fa-envelope-square"
       # url: "mailto:your.name@email.com"
     - label: "Website"
-      icon: "fa-regular fa-globe"
+      icon: "fa-light fa-globe"
       url: "https://camhao168.github.io"
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
