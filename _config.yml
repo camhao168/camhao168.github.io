@@ -106,15 +106,15 @@ analytics:
 author:
   name             : "Cam-Hao Hua"
   avatar           : # "/assets/images/bio_photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Ph.D. in Computer Engineering.\n Email: huacamhao (at) gmail (dot) com"
+  bio              : "Ph.D. in Computer Engineering. Email: huacamhao (at) gmail (dot) com"
   location         : "Republic of Korea"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://camhao168.github.io"
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/cam-hao-hua-a3246ab2/"
+    - label: "Google Scholar"
+      icon: "fa-sharp fa-solid fa-graduation-cap"
+      url: "https://scholar.google.com/citations?user=87YF-hQAAAAJ&hl=en"
 
 # Site Footer
 footer:
