@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "Cam-Hao Hua"
   avatar           : # "/assets/images/bio_photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Ph.D. in Computer Engineering. Email: huacamhao (at) gmail (dot) com"
+  bio              : "Ph.D. in Computer Engineering.\nEmail: huacamhao (at) gmail (dot) com"
   location         : "Republic of Korea"
   links:
     - label: "Website"
