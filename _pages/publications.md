@@ -3,6 +3,7 @@ title: "Publications"
 permalink: /publications/
 date: 2022-10-17T00:56:19+00:00
 toc: true
+toc_sticky: true
 ---
 
 # Patent Registration
