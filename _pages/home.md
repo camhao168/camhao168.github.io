@@ -17,7 +17,7 @@ feature_row:
     btn_label: "See more"
   - image_path: /assets/images/h2c_logo.png
     alt: "publications"
-    title: "publications"
+    title: "Publications"
     excerpt: "My authorship list of registered patents, journal articles, conference proceedings, and chapter in book."
     url: "/publications/"
     btn_class: "btn--primary"
