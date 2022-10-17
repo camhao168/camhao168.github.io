@@ -31,6 +31,7 @@ breadcrumbs              : true # true, false (default)
 breadcrumb_home_label    : "Home"
 breadcrumb_separator     : "/"
 words_per_minute         : 200
+classes                  : wide
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
   disqus:
