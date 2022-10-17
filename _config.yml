@@ -106,9 +106,11 @@ analytics:
 author:
   name             : "Cam-Hao Hua"
   avatar           : "/assets/images/bio-photo-anonymous.png" # path of avatar image
-  bio              : "Ph.D. in Computer Engineering. Email: huacamhao (at) gmail (dot) com"
+  bio              : "Ph.D. in Computer Engineering"
   location         : "Republic of Korea"
   links:
+    - label: "huacamhao (at) gmail (dot) com"
+    - icon: "fas fa-fw fa-envelope-square"
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/cam-hao-hua-a3246ab2/"
