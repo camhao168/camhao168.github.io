@@ -1,1 +1,2 @@
-# N/a
+# Reference: 
+https://github.com/mmistakes/minimal-mistakes
