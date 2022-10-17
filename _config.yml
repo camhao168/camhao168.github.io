@@ -265,7 +265,7 @@ defaults:
 defaults:
   # _pages
   - scope:
-      path: "_pages/publications.md"
+      path: ""
       type: pages
     values:
       layout: single
