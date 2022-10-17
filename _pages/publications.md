@@ -2,16 +2,17 @@
 title: "Publications"
 permalink: /publications/
 date: 2022-10-17T00:56:19+00:00
+toc: true
 ---
 
-### Patent Registration
+# Patent Registration
 1. Sung Young Lee and **Cam Hao Hua**, Image segmentation method, apparatus, and computer program to identify objects in images, [US Patent 11,145,061](https://patents.google.com/patent/US11145061B2), Oct. 2021.
 2. Sung Young Lee and **Cam Hao Hua**, Bracket-style convolutional neural networks for semantic image segmentation, [Japan Patent 6890345](https://patents.google.com/patent/JP6890345B2/en), Jun. 2021.
 3. Sung Young Lee and **Cam Hao Hua**, Method, apparatus and computer program for image segmentation, [Korea Patent 10-2215757](https://patents.google.com/patent/KR102215757B1/en), Feb. 2021
 
-### Research Publications
+# Research Publications
 
-#### Journal Articles
+## Journal Articles
 1. Mugahed A Al-Antari, **Cam-Hao Hua**, Jaehun Bang, and Sungyoung Lee, “Fast deep learning computer-aided diagnosis of covid-19 based on digital chest x-ray images,” Applied Intelligence, vol. 51, no. 5, pp. 2890–2907, 2021.
 2. Thien Huynh-The, Van-Sang Doan, **Cam-Hao Hua**, Quoc-Viet Pham, Toan-Van Nguyen, and Dong-Seong Kim, “Accurate lpi radar waveform recognition with cwd-tfa for deep convolutional network,” IEEE Wireless Communications Letters, vol. 10, no. 8, pp. 1638–1642, 2021.
 3. Thien Huynh-The, **Cam-Hao Hua**, Van-Sang Doan, Quoc-Viet Pham, and Dong-Seong Kim, “Accurate deep cnn-based waveform recognition for intelligent radar systems,” IEEE Communications Letters, vol. 25, no. 9, pp. 2938–2942, 2021.
@@ -27,7 +28,7 @@ date: 2022-10-17T00:56:19+00:00
 13. Thien Huynh-The, **Cam-Hao Hua**, Nguyen Anh Tu, Taeho Hur, Jaehun Bang, Dohyeong Kim, Muhammad Bilal Amin, Byeong Ho Kang, Hyonwoo Seung, and Sungyoung Lee, “Selective bit embedding scheme for robust blind color image watermarking,” Information Sciences, vol. 426, pp. 1–18, 2018.
 14. Thien Huynh-The, **Cam-Hao Hua**, Nguyen Anh Tu, Taeho Hur, Jaehun Bang, Dohyeong Kim, Muhammad Bilal Amin, Byeong Ho Kang, Hyonwoo Seung, Soo-Yong Shin, et al., “Hierarchical topic modeling with pose-transition feature for action recognition using 3d skeleton data,” Information Sciences, vol. 444, pp. 20–35, 2018.
 
-#### Conference Proceedings
+## Conference Proceedings
 1. Mugahed A Al-Antari, **Cam-Hao Hua**, Jaehun Bang, Dong-Ju Choi, Sun Moo Kang, and Sungyoung Lee, “A rapid deep learning computer-aided diagnosis to simultaneously detect and classify the novel covid-19 pandemic,” in 2020 IEEE-EMBS Conference on Biomedical Engineering and Sciences (IECBES), IEEE, 2021, pp. 585–588.
 2. Thien Huynh-The, **Cam-Hao Hua**, Van-Sang Doan, and Dong-Seong Kim, “Accurate modulation classification with reusable-feature convolutional neural network,” in 2020 IEEE Eighth International Conference on Communications and Electronics (ICCE), IEEE, 2021, pp. 12–17.
 3. Van-Sang Doan, Thien Huynh-The, **Cam-Hao Hua**, Quoc-Viet Pham, and Dong-Seong Kim, “Learning constellation map with deep cnn for accurate modulation recognition,” in GLOBECOM 2020-2020 IEEE Global Communications Conference, IEEE, 2020, pp. 1–6.
@@ -47,5 +48,5 @@ date: 2022-10-17T00:56:19+00:00
 17. Thien Huynh-The, **Cam-Hao Hua**, and Sungyoung Lee, “Improving nic algorithm using different binary structure elements for multi-modal foreground detection,” in Proceedings of the 11th International Conference on Ubiquitous Information Management and Communication, 2017, pp. 1–7.
 18. Thien Huynh-The, Sungyoung Lee, and **Cam-Hao Hua**, “Adm-hipar: An efficient background subtraction approach,” in 2017 14th IEEE International Conference on Advanced Video and Signal Based Surveillance (AVSS), IEEE, 2017, pp. 1–6.
 
-#### Chapter in Book
+## Chapter in Book
 1. Mugahed A. Al-Antari, **Cam-Hao Hua**, and Sungyoung Lee, “Rapid and accurate AI-based diagnosis to distinguish COVID-19 from eight other lung respiratory diseases,” in Artificial Intelligence Strategies for Analyzing COVID-19 Pneumonia Lung Imaging, vol. 1, 2022, 7, p. 7. DOI: 10.1088/978-0-7503-3795-3ch7.
