@@ -4,7 +4,7 @@ permalink: /
 hidden: true
 header:
   overlay_color: "#5e616c"
-  overlay_image: /assets/images/h2c_logo_dark.png
+  overlay_image: /assets/images/h2c_home_banner.png
 excerpt: >
   Personal site of **H2C** (**H**ứa **C**ẩm **H**ào)<br />
 feature_row:
