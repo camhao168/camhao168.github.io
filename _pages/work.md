@@ -14,14 +14,14 @@ date: 2022-10-17T12:58:00+00:00
 | 03/2022 - present | **Postdoctoral Researcher**, Ubiquitous Computing Lab, Kyung Hee University, Republic of Korea     |
 | 09/2016 - 02/2022 | **Graduate Student Researcher**, Ubiquitous Computing Lab, Kyung Hee University, Republic of Korea |
 
-## Project Participation
+## Project Experience
 
-| Period          | Project                                                                       |
-| ----------------| ------------------------------------------------------------------------------|
-| 2022 - present  | Explainable Logical Reasoning for Medical Knowledge Generation                |
-| 2021 - present  | AI-based Energy Storage System (ESS) Scheduling and Anomaly Detection         |
-| 2017 - present  | Intelligent Medical Platform Global Bridge Research Center                    |
-| 2017 - present  | Lean UX core technology and platform for any digital artifacts UX evaluation  |
-| 2019 - 2020     | Intelligent Medical Services over TEIN                                        |
-| 2016 - 2018     | Mining Minds Core Technology Exploiting Personal Big Data                     |
+| Participation Period          | Project                                                                       | Funder
+| ------------------------------| ------------------------------------------------------------------------------| 
+| 04/2022 - present             | Explainable Logical Reasoning for Medical Knowledge Generation                | Institute for Information & Communications Technology Promotion |
+| 04/2021 - present             | AI-based Energy Storage System (ESS) Scheduling and Anomaly Detection         | Institute for Information & Communications Technology Promotion |
+| 06/2017 - present             | Intelligent Medical Platform Global Bridge Research Center                    | Ministry of Science, ICT and Future Planning, ITRC (Information Technology Research Center) |
+| 04/2017 - present             | Lean UX core technology and platform for any digital artifacts UX evaluation  | Institute for Information & Communications Technology Promotion |
+| 05/2019 - 12/2020             | Intelligent Medical Services over TEIN                                        | Asi@Connect TEIN\*Cooperation Center |
+| 09/2016 - 05/2018             | Mining Minds Core Technology Exploiting Personal Big Data                     | Ministry of Trade, Industry & Energy (MOTIE) |
 
