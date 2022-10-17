@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Cam-Hao Hua, Ph.D."
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Cam-Hao Hua"
+name                     : "H2C"
 description              : "Personal Website"
 url                      : "https://camhao168.github.io" # the base hostname & protocol for your site e.g. "https://camhao168.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
