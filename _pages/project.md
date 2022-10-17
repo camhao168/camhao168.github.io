@@ -1,6 +1,7 @@
 ---
 title: "Project Participation"
 permalink: /project/
+classes: wide
 date: 2022-10-17T12:58:00+00:00
 ---
 
