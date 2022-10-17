@@ -2,7 +2,6 @@
 title: "Publications"
 permalink: /publications/
 toc: true
-toc_label: "Table of Contents"
 toc_sticky: true
 date: 2022-10-17T00:56:19+00:00
 ---
