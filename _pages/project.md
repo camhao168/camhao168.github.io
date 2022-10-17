@@ -1,3 +1,8 @@
+---
+title: "Project Participation"
+permalink: /project/
+date: 2022-10-17T12:58:00+00:00
+---
 
 Explainable Logical Reasoning for Medical Knowledge Generation (2022 - present)
 
