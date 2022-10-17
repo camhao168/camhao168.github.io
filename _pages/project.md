@@ -14,4 +14,4 @@ date: 2022-10-17T12:58:00+00:00
 | 2019 - 2020     | Intelligent Medical Services over TEIN                                        |
 | 2016 - 2018     | Mining Minds Core Technology Exploiting Personal Big Data                     |
 
-<font size="1">*The projects are conducted at [Ubiquitous Computing Laboratory](http://uclab.khu.ac.kr/), Kyung Hee University, Republic of Korea.*</font>
+*<font size="3">The projects are conducted at [Ubiquitous Computing Laboratory](http://uclab.khu.ac.kr/), Kyung Hee University, Republic of Korea.</font>*
