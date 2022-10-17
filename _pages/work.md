@@ -1,9 +1,20 @@
 ---
-title: "Project Participation"
-permalink: /project/
+title: "Work"
+permalink: /work/
+toc: true
+toc_sticky: true
 classes: wide
 date: 2022-10-17T12:58:00+00:00
 ---
+
+## Employment History
+
+| Period            | Work Title                                                                                         |
+| ----------------- | -------------------------------------------------------------------------------------------------- |
+| 03/2022 - present | **Postdoctoral Researcher**, Ubiquitous Computing Lab, Kyung Hee University, Republic of Korea     |
+| 09/2016 - 02/2022 | **Graduate Student Researcher**, Ubiquitous Computing Lab, Kyung Hee University, Republic of Korea |
+
+## Project Participation
 
 | Period          | Project                                                                       |
 | ----------------| ------------------------------------------------------------------------------|
