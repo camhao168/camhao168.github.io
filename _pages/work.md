@@ -17,7 +17,7 @@ date: 2022-10-17T12:58:00+00:00
 ## Project Experience
 
 | Participation Period          | Project                                                                       | Funder
-| ------------------------------| ------------------------------------------------------------------------------| 
+| ------------------------------| ------------------------------------------------------------------------------| -----------------------------------------------------------------|
 | 04/2022 - present             | Explainable Logical Reasoning for Medical Knowledge Generation                | Institute for Information & Communications Technology Promotion |
 | 04/2021 - present             | AI-based Energy Storage System (ESS) Scheduling and Anomaly Detection         | Institute for Information & Communications Technology Promotion |
 | 06/2017 - present             | Intelligent Medical Platform Global Bridge Research Center                    | Ministry of Science, ICT and Future Planning, ITRC (Information Technology Research Center) |
