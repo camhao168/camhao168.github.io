@@ -1,7 +1,7 @@
 ---
 title: "About Me"
 permalink: /about/
-toc: false
+toc: true
 toc_sticky: true
 classes: wide
 date: 2022-10-17T14:49:00+00:00
