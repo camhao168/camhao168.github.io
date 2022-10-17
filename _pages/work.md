@@ -1,7 +1,7 @@
 ---
 title: "Work"
 permalink: /work/
-toc: true
+toc: false
 toc_sticky: true
 classes: wide
 date: 2022-10-17T12:58:00+00:00
