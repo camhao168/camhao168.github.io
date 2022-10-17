@@ -109,9 +109,9 @@ author:
   bio              : "Ph.D. in Computer Engineering"
   location         : "Republic of Korea"
   links:
-    - label: "Emai"
+    - label: "huacamhao (at) gmail"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:huacamhao@gmail.com"
+      #url: "mailto:huacamhao@gmail.com"
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/cam-hao-hua-a3246ab2/"
