@@ -109,7 +109,7 @@ author:
   bio              : "Ph.D. in Computer Engineering"
   location         : "Republic of Korea"
   links:
-    - label: "huacamhao (at) gmail"
+    - label: "huacamhao"
       icon: "fas fa-fw fa-envelope-square"
       #url: ""
     - label: "LinkedIn"
