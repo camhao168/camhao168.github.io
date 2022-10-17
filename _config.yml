@@ -106,7 +106,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Cam-Hao Hua\n\n(Hứa Cẩm Hào)"
+  name             : |-
+    Cam-Hao Hua
+    
+    (Hứa Cẩm Hào)
   avatar           : "/assets/images/bio-photo-anonymous.png" # path of avatar image
   bio              : "Ph.D. in Computer Engineering"
   location         : "Republic of Korea"
