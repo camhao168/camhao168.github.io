@@ -3,6 +3,7 @@ title: "Publications"
 permalink: /publications/
 toc: true
 toc_sticky: true
+classes: wide
 date: 2022-10-17T00:56:19+00:00
 ---
 
