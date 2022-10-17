@@ -14,7 +14,7 @@ date: 2022-10-17T14:49:00+00:00
 - About development capability, I have experience with practical deployment of AI-based services in web and/or mobile apps, comprising facial expression recognition, medication classification, medication intake detection for the elderly, etc.
 
 ## Work
-| Period             | Work                                                                                                       |
-| -------------------| -----------------------------------------------------------------------------------------------------------|
-| 03/2022 - present  | **Postdoctoral Researcher**, Ubiquitous Computing Laboratory, Kyung Hee University, Republic of Korea.     |
-| 09/2016 - 02/2022  | **Graduate Student Researcher**, Ubiquitous Computing Laboratory, Kyung Hee University, Republic of Korea. |
+| Period             | Work                                                                      |
+| -------------------| --------------------------------------------------------------------------|
+| 03/2022 - present  | **Postdoctoral Researcher**, Kyung Hee University, Republic of Korea.     |
+| 09/2016 - 02/2022  | **Graduate Student Researcher**, Kyung Hee University, Republic of Korea. |
