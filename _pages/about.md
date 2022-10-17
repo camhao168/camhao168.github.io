@@ -1,6 +1,6 @@
 ---
 title: "About Me"
-permalink: /
+permalink: /about/
 toc: false
 toc_sticky: true
 classes: wide
