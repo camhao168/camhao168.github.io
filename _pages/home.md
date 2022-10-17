@@ -6,7 +6,7 @@ header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/h2c_logo_dark.png
 excerpt: >
-  A Personal Site of H2C (**H**ua **C**am **H**ao).<br />
+  Personal site of **H2C** (**H**ua **C**am **H**ao).<br />
 feature_row:
   - image_path: /assets/images/h2c_logo.png
     alt: "about me"
