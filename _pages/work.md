@@ -11,12 +11,12 @@ date: 2022-10-17T12:58:00+00:00
 
 | Period            | Work Title                                                                                         |
 | ----------------- | -------------------------------------------------------------------------------------------------- |
-| 03/2022 - present | **Postdoctoral Researcher**, Ubiquitous Computing Lab, Kyung Hee University, Republic of Korea     |
-| 09/2016 - 02/2022 | **Graduate Student Researcher**, Ubiquitous Computing Lab, Kyung Hee University, Republic of Korea |
+| 03/2022 - present | **Postdoctoral Researcher**, Ubiquitous Computing Laboratory, Kyung Hee University, Republic of Korea     |
+| 09/2016 - 02/2022 | **Graduate Student Researcher**, Ubiquitous Computing Laboratory, Kyung Hee University, Republic of Korea |
 
 ## Project Experience
 
-| Participation Period          | Project                                                                       | Funder
+| Participation Period          | Project Title                                                                 | Funder
 | ------------------------------| ------------------------------------------------------------------------------| -----------------------------------------------------------------|
 | 04/2022 - present             | Explainable Logical Reasoning for Medical Knowledge Generation                | Institute for Information & Communications Technology Promotion |
 | 04/2021 - present             | AI-based Energy Storage System (ESS) Scheduling and Anomaly Detection         | Institute for Information & Communications Technology Promotion |
