@@ -111,7 +111,7 @@ author:
   bio              : "Ph.D. in Computer Engineering"
   location         : "Republic of Korea"
   links:
-    - label: "huacamhao <at> gmail"
+    - label: "huacamhao [at] gmail"
       icon: "fas fa-envelope"
       url: "https://camhao168.github.io"
     - label: "LinkedIn"
@@ -124,7 +124,7 @@ author:
 # Site Footer
 footer:
   links:
-    - label: "huacamhao <at> gmail <dot> com"
+    - label: "huacamhao [at] gmail [dot] com"
       icon: "fas fa-envelope"
       url: "https://camhao168.github.io"
     - label: "LinkedIn"
