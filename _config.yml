@@ -126,6 +126,7 @@ footer:
   links:
     - label: "huacamhao(at)gmail(dot)com"
       icon: "fas fa-envelope"
+      url: "https://camhao168.github.io"
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/cam-hao-hua-a3246ab2/"
