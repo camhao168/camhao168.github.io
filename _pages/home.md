@@ -8,7 +8,7 @@ header:
 excerpt: >
   Personal site of **H2C** (**H**ứa **C**ẩm **H**ào)<br />
 feature_row:
-  - image_path: /assets/images/h2c_logo.png
+  - image_path: /assets/images/bio-photo-anonymous.png
     alt: "about me"
     title: "About Me"
     excerpt: "My summary of biography, research achievements, and development experience."
