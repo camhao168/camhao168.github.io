@@ -7,7 +7,7 @@ classes: wide
 date: 2023-05-22T20:40:19+00:00
 ---
 
-## Patent Registration (3+1)
+## Patent Registration (4)
 1. Sung Young Lee and **Cam Hao Hua**, Image segmentation method, apparatus, and computer program to identify objects in images, [US Patent 11,600,001](https://patents.google.com/patent/US11600001B2) (continuation), Mar. 2023.
 2. Sung Young Lee and **Cam Hao Hua**, Image segmentation method, apparatus, and computer program to identify objects in images, [US Patent 11,145,061](https://patents.google.com/patent/US11145061B2), Oct. 2021.
 3. Sung Young Lee and **Cam Hao Hua**, Bracket-style convolutional neural networks for semantic image segmentation, [Japan Patent 6890345](https://patents.google.com/patent/JP6890345B2/en), Jun. 2021.
