@@ -4,7 +4,7 @@ permalink: /work/
 toc: false
 toc_sticky: true
 classes: wide
-date: 2023-06-12T19:53:00+00:00
+date: 2024-04-06T22:15:00+00:00
 ---
 
 ## Employment History
